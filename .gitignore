@@ -1,0 +1,5 @@
+*.zip
+.ipynb_checkpoints/
+img
+data
+00readme.txt
